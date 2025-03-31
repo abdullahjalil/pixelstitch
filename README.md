@@ -46,13 +46,10 @@ A simple yet powerful GUI application to **combine multiple images into a single
 ---
 
 ## **Screenshots**  
-*(Example UI with Catppuccin Mocha theme)*  
-
-![Image Combiner UI](https://via.placeholder.com/800x600/1e1e2e/cdd6f4?text=Image+Combiner+UI+Preview)  
 
 *(Example output with 3 combined images)*  
 
-![Combined Image Example](https://via.placeholder.com/600x800/313244/a6adc8?text=Combined+Image+Example)  
+![Combined Image Example](./combined_image/example.jpg)  
 
 ---
 
