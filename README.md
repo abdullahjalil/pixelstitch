@@ -81,4 +81,4 @@ MIT License – Free to use, modify, and distribute.
 Enjoy combining images! 🚀  
 
 ---  
-**Made with ❤️ using Python & Catppuccin Mocha**# pixelstitch
+**Made with ❤️ using Python & Catppuccin Mocha**
